@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Lavar a louça",
+        "descrição": "Pequena atividade de manutenção diária.",
+        "prioridade": "Alta",
+        "estatus": false
+    },
+    {
+        "id": 2,
+        "nome": "Arrumar a cama",
+        "descrição": "Pequena atividade de manutenção diária.",
+        "prioridade": "Baixa",
+        "estatus": false
+    },
+    {
+        "id": 3,
+        "nome": "Passar aspirador",
+        "descrição": "Atividade rápida e simples de realizar.",
+        "prioridade": "Alta",
+        "estatus": true
+    },
+    {
+        "id": 4,
+        "nome": "Cuidar das plantas",
+        "descrição": "Atividade rápida e simples de realizar.",
+        "prioridade": "Baixa",
+        "estatus": false
+    },
+    {
+        "id": 5,
+        "nome": "Tirar o lixo",
+        "descrição": "Pequena atividade de manutenção diária.",
+        "prioridade": "Alta",
+        "estatus": false
+    },
+    {
+        "id": 6,
+        "nome": "Limpar a geladeira",
+        "descrição": "Tarefa doméstica essencial para manter a casa organizada.",
+        "prioridade": "Média",
+        "estatus": true
+    },
+    {
+        "id": 7,
+        "nome": "Varrer a garagem",
+        "descrição": "Ajuda a manter a higiene e organização.",
+        "prioridade": "Baixa",
+        "estatus": false
+    },
+    {
+        "id": 8,
+        "nome": "Dobrar roupas",
+        "descrição": "Atividade rápida e simples de realizar.",
+        "prioridade": "Média",
+        "estatus": true
+    },
+    {
+        "id": 9,
+        "nome": "Guardar compras",
+        "descrição": "Tarefa doméstica essencial para manter a casa organizada.",
+        "prioridade": "Alta",
+        "estatus": false
+    },
+    {
+        "id": 10,
+        "nome": "Trocar a roupa de cama",
+        "descrição": "Ajuda a manter a higiene e organização.",
+        "prioridade": "Média",
+        "estatus": false
+    }
+]
